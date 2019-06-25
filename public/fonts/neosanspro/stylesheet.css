@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url('NeoSansPro-Medium.eot');
+    src: url('NeoSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('NeoSansPro-Medium.woff2') format('woff2'),
+        url('NeoSansPro-Medium.woff') format('woff'),
+        url('NeoSansPro-Medium.ttf') format('truetype'),
+        url('NeoSansPro-Medium.svg#NeoSansPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
